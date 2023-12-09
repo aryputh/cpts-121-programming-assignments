@@ -75,7 +75,29 @@ GPA Minimum (double)
 GPA Maximum (double)
 
 ### Programming Assignment 4 - Craps
-Coming soon.
+Write a program that plays a game of Craps, with wagering implemented.
+**Required Functions**
+1. Prints out the game rules.
+    - void print_game_rules (void)
+2. Prompts and gets a bank balance amount.
+    - double get_bank_balance (void)
+3. Prompts and gets a wager amount.
+    - double get_wager_amount (void)
+4. Checks wager amount to ensure you can spend it.
+    - int check_wager_amount (double wager, double balance)
+5. Rolls a die and returns the result.
+    - int roll_die (void)
+6. FInds the sum of the die faces.
+    - int calculate_sum_dice (int die1_value, int die2_value)
+7. Determines the result of the first roll. If sum is 7 or 11, the player wins. If sum is 2, 3, or 12, the player loses. Any other sum becomes the point.
+    - int is_win_loss_or_point (int sum_dice)
+8. Determines the result of any successive roll after the first roll. If the sum of the roll is the point_value, player wins. If the sum of the roll is a 7, player loses.
+    - int is_point_loss_or_neither (int sum_dice, int point_value)
+9. Add or subtract amount to/from bank balance.
+    -  double adjust_bank_balance (double bank_balance, double wager_amount, int add_or_subtract)
+10. Random messages to add for fun.
+    - void chatter_messages (int number_rolls, int win_loss_neither, double initial_bank_balance, double current_bank_balance)
+11. Others?
 
 ### Programming Assignment 5 - Yahtzee
 Coming soon.
