@@ -3,12 +3,12 @@ All of my programming assignments for my CptS 121 course. Basic description of e
 
 ### Table of Contents
 > [Programming Assignment 1 - Solving Equations](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
-> [Programming Assignment 2 - Solving Equations using Scanning](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
-> [Programming Assignment 3 - GPA Operations](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
-> [Programming Assignment 4 - Craps](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
-> [Programming Assignment 5 - Yahtzee](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
-> [Programming Assignment 6 - Battleship](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
-> [Programming Assignment 7 - 5-Card Poker](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)
+> [Programming Assignment 2 - Solving Equations using Scanning](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-2---solving-equations-using-scanning)<br>
+> [Programming Assignment 3 - GPA Operations](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-3---gpa-operations)<br>
+> [Programming Assignment 4 - Craps](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-4---craps)<br>
+> [Programming Assignment 5 - Yahtzee](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-5---yahtzee)<br>
+> [Programming Assignment 6 - Battleship](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-6---battleship)<br>
+> [Programming Assignment 7 - 5-Card Poker](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-7---5-card-poker)
 
 ### Programming Assignment 1 - Solving Equations
 Create a program that evaluates equations. Checking for faulty numbers aren't required.
