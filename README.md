@@ -7,15 +7,15 @@ Create a program that evaluates equations. Checking for faulty numbers aren't re
 1. Newton’s Second Law of Motion
     - force = mass * acceleration
 3. Volume of a cylinder
-    - volume_cylinder = PI * radius^2 * height
+    - volume_cylinder = PI * radius² * height
 5. Character encoding
     - encoded_character = (plaintext_character - 'a') + 'A
 8. Gravity
-    - force = G * mass1 * mass2 / distance^2
+    - force = G * mass1 * mass2 / distance²
 10. Resistive divider
     - vout = r2 / (r1 + r2) * vin
 12. Distance between two points
-    - distance = √((x1 - x2)^2 + (y1 - y2)^2)
+    - distance = √((x1 - x2)² + (y1 - y2)²)
 14. General equation
     - y = (73 / 12) - x * z + a / (a % 2)
 
