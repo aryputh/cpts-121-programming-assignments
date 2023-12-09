@@ -72,17 +72,17 @@ Write a program that processes numbers, corresponding to student records read fr
 12. Close the input and output files.
 
 **Expected Input File Format**
-Student ID (int)
-GPA (double)
-Class Standing (int)
+Student ID (int)<br>
+GPA (double)<br>
+Class Standing (int)<br>
 Age (double)
 
 **Expected Input File Format**
-GPA Mean (double)
-Class Standing Mean (double)
-Age Mean (double)
-GPA Standard Deviation (double)
-GPA Minimum (double)
+GPA Mean (double)<br>
+Class Standing Mean (double)<br>
+Age Mean (double)<br>
+GPA Standard Deviation (double)<br>
+GPA Minimum (double)<br>
 GPA Maximum (double)
 
 ### Programming Assignment 4 - Craps
@@ -147,14 +147,14 @@ Write a program that simulates the game of Battleship. Both players' fleets cons
 14. Close logging file.
 
 **Expected Input File Format**
-Position (int int)
-Hit or Miss (char)
+Position (int int)<br>
+Hit or Miss (char)<br>
 Which Ship Sunk (char)
 
-Number of Hits (int)
-Number of Misses (int)
-Number of Shots (int)
-Hit to Miss Ratio (double)
+Number of Hits (int)<br>
+Number of Misses (int)<br>
+Number of Shots (int)<br>
+Hit to Miss Ratio (double)<br>
 Won or Lost (int)
 
 ### Programming Assignment 7 - 5-Card Poker
