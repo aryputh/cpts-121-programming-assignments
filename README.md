@@ -132,7 +132,7 @@ Write a program that simulates the game of Battleship. Both players' fleets cons
 
 **Required Processes**
 1. Print a game menu.
-2. Prints menu, starts game, or quits accordingly.
+2. Print menu, start game, or quit accordingly.
 3. Open logging file.
 4. Intializing Player1's and Player2's boards.
 5. Ask for manual or automatic placement for ships.
@@ -158,4 +158,14 @@ Hit to Miss Ratio (double)<br>
 Won or Lost (int)
 
 ### Programming Assignment 7 - 5-Card Poker
-Coming soon.
+Write a program that allows a user to play 5-Card-Draw Poker against the CPU.
+
+**Required Processes**
+1. Declare a Card struct with 2 integers. One being the face value, the othe rbeing the suit.
+2. Declare a Had struct that contains an array of 5 Card structs.
+3. Print a game menu.
+4. Prints menu, start game, or quit accordingly.
+5. Make a draw function to draw a specific number of cards.
+6. Write a function to determine that determines if a hand is a pair, 2 pair, 3 a kind, 4 a kind, full house, flush, or a straight.
+7. Simulate the dealer, which should draw cards and replace up to 3 cards as needed to get a better hand.
+8. Determine and print the winner.
