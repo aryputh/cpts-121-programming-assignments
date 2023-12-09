@@ -1,8 +1,18 @@
 ## cpts 121 programming assignments
 All of my programming assignments for my CptS 121 course. Basic description of each PA is available in this file.
 
+### Table of Contents
+> [Programming Assignment 1 - Solving Equations](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
+> [Programming Assignment 2 - Solving Equations using Scanning](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
+> [Programming Assignment 3 - GPA Operations](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
+> [Programming Assignment 4 - Craps](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
+> [Programming Assignment 5 - Yahtzee](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
+> [Programming Assignment 6 - Battleship](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)<br>
+> [Programming Assignment 7 - 5-Card Poker](https://github.com/frozenpixel-games/cpts-121-programming-assignments/tree/main?tab=readme-ov-file#programming-assignment-1---solving-equations)
+
 ### Programming Assignment 1 - Solving Equations
 Create a program that evaluates equations. Checking for faulty numbers aren't required.
+
 **Equations**
 1. Newton’s Second Law of Motion
     - force = mass * acceleration
@@ -24,6 +34,7 @@ Alter PA 1 to be modular and use scanning (scanf) for inputs. Do not check for f
 
 ### Programming Assignment 3 - GPA Operations
 Write a program that processes numbers, corresponding to student records read from a file. You must define the following functions and process them accordingly.
+
 **Required Functions**
 1. Read a double from a file.
     - double read_double (FILE *infile)
@@ -76,6 +87,7 @@ GPA Maximum (double)
 
 ### Programming Assignment 4 - Craps
 Write a program that plays a game of Craps, with wagering implemented. Required functions are listed below.
+
 **Required Functions**
 1. Prints out the game rules.
     - void print_game_rules (void)
@@ -101,6 +113,7 @@ Write a program that plays a game of Craps, with wagering implemented. Required 
 
 ### Programming Assignment 5 - Yahtzee
 Develop and implement an interactive two-player Yahtzee game. Required processes are listed below.
+
 **Required Processes**
 1. Print a game menu.
 2. Get menu choice and either print rules, start game, or quit.
