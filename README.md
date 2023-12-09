@@ -75,7 +75,7 @@ GPA Minimum (double)
 GPA Maximum (double)
 
 ### Programming Assignment 4 - Craps
-Write a program that plays a game of Craps, with wagering implemented.
+Write a program that plays a game of Craps, with wagering implemented. Required functions are listed below.
 **Required Functions**
 1. Prints out the game rules.
     - void print_game_rules (void)
@@ -100,7 +100,19 @@ Write a program that plays a game of Craps, with wagering implemented.
 11. Others?
 
 ### Programming Assignment 5 - Yahtzee
-Coming soon.
+Develop and implement an interactive two-player Yahtzee game. Required processes are listed below.
+**Required Processes**
+1. Print a game menu.
+2. Get menu choice and either print rules, start game, or quit.
+3. Ask player to hit any key to continue.
+4. Roll 5 die and display them.
+5. Allow player to reroll die up to 3 times.
+6. Save the combination, as it cannot be changed anymore.
+7. Calculate points and validate the selections (which section on score card) the player chose to assign points to is valid and hasn't been used yet.
+8. Alternate players and repeat steps for 14 rounds.
+9. If the total score in the upper section (score card) is greater than or equal to 63 for a player, add 35 points to the score.
+10. Print scores for both players and display the winner.
+11. Return to step 1.
 
 ### Programming Assignment 6 - Battleship
 Coming soon.
