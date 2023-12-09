@@ -128,7 +128,34 @@ Develop and implement an interactive two-player Yahtzee game. Required processes
 11. Return to step 1.
 
 ### Programming Assignment 6 - Battleship
-Coming soon.
+Write a program that simulates the game of Battleship. Both players' fleets consist of 5 ships that are hidden from the enemy. For each move made by Player1 and Player2, the results should be echoed to a file called "battleship.log". At the end of the game, Player1's and Player2's statistics should be written to "battleship.log". Must use structs to store log information. See optional functions, required processes, and expected output below.
+
+**Required Processes**
+1. Print a game menu.
+2. Prints menu, starts game, or quits accordingly.
+3. Open logging file.
+4. Intializing Player1's and Player2's boards.
+5. Ask for manual or automatic placement for ships.
+6. Manually or automatically place ships for Player1.
+7. Automatically place ships for Player2 (CPU).
+8. Randomly select who goes first.
+9. Displaying game boards accurately, including hiding (but not changing) the enemy's board.
+10. Ask for coordinates, validate them and check for hits/misses.
+11. Determin if a ship is sunk.
+12. Alternate players.
+13. Keep going until there is a winner.
+14. Close logging file.
+
+**Expected Input File Format**
+Position (int int)
+Hit or Miss (char)
+Which Ship Sunk (char)
+
+Number of Hits (int)
+Number of Misses (int)
+Number of Shots (int)
+Hit to Miss Ratio (double)
+Won or Lost (int)
 
 ### Programming Assignment 7 - 5-Card Poker
 Coming soon.
