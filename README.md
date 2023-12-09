@@ -4,38 +4,47 @@ All of my programming assignments for my CptS 121 course. Basic description of e
 ### Programming Assignment 1 - Solving Equations
 Create a program that evaluates equations. Checking for faulty numbers aren't required.
 **Equations**
-1. Newton’s Second Law of Motion: force = mass * acceleration
-2. Volume of a cylinder: volume_cylinder = PI * radius^2 * height
-3. Character encoding: encoded_character = (plaintext_character - 'a') + 'A
-4. Gravity: force = G * mass1 * mass2 / distance^2
-5. Resistive divider: vout = r2 / (r1 + r2) * vin
-6. Distance between two points: distance = √((x1 - x2)^2 + (y1 - y2)^2)
-7. General equation: y = (73 / 12) - x * z + a / (a % 2)
+1. Newton’s Second Law of Motion
+    - force = mass * acceleration
+3. Volume of a cylinder
+    - volume_cylinder = PI * radius^2 * height
+5. Character encoding
+    - encoded_character = (plaintext_character - 'a') + 'A
+8. Gravity
+    - force = G * mass1 * mass2 / distance^2
+10. Resistive divider
+    - vout = r2 / (r1 + r2) * vin
+12. Distance between two points
+    - distance = √((x1 - x2)^2 + (y1 - y2)^2)
+14. General equation
+    - y = (73 / 12) - x * z + a / (a % 2)
 
 ### Programming Assignment 2 - Solving Equations using Scanning
-Alter PA 1 to be modular and use scanning for inputs. Do not check for faulty inputs.
-**Equations**
-1. Newton’s Second Law of Motion: force = mass * acceleration
-2. Volume of a cylinder: volume_cylinder = PI * radius^2 * height
-3. Character encoding: encoded_character = (plaintext_character - 'a') + 'A
-4. Gravity: force = G * mass1 * mass2 / distance^2
-5. Resistive divider: vout = r2 / (r1 + r2) * vin
-6. Distance between two points: distance = √((x1 - x2)^2 + (y1 - y2)^2)
-7. General equation: y = (73 / 12) - x * z + a / (a % 2)
+Alter PA 1 to be modular and use scanning (scanf) for inputs. Do not check for faulty inputs.
 
 ### Programming Assignment 3 - GPA Operations
 Write a program that processes numbers, corresponding to student records read from a file. You must define the following functions and process them accordingly.
 **Required Functions**
-1. double read_double (FILE *infile): Read a double from a file.
-2. int read_integer (FILE *infile): Read an int from a file.
-3. double calculate_sum (double number1, double number2, double number3, double number4, double number5): Find the sum of the numbers.
-4. double calculate_mean (double sum, int number): Find the average.
-5. double calculate_deviation (double number, double mean): Find the deviation.
-6. double calculate_variance (double deviation1, double deviation2, double deviation3, double deviation4, double deviation5, int number): Find the variance.
-7. double calculate_standard_deviation (double variance): Find the standard deviation.
-8. double find_max (double number1, double number2, double number3, double number4, double number5): Find the maximum number.
-9. double find_min (double number1, double number2, double number3, double number4, double number5): Find the minimum number.
-10. void print_double (FILE *outfile, double number): Print a double to the output file.
+1. Read a double from a file.
+    - double read_double (FILE *infile)
+2. Read an int from a file.
+    - int read_integer (FILE *infile)
+3. Find the sum of the numbers.
+    - double calculate_sum (double number1, double number2, double number3, double number4, double number5)
+4. Find the average.
+    - double calculate_mean (double sum, int number)
+5. Find the deviation.
+    - double calculate_deviation (double number, double mean)
+6. Find the variance.
+    - double calculate_variance (double deviation1, double deviation2, double deviation3, double deviation4, double deviation5, int number)
+7. Find the standard deviation.
+    - double calculate_standard_deviation (double variance)
+8. Find the maximum number.
+    - double find_max (double number1, double number2, double number3, double number4, double number5)
+9. Find the minimum number.
+    - double find_min (double number1, double number2, double number3, double number4, double number5)
+10. Print a double to the output file.
+    - void print_double (FILE *outfile, double number)
 
 **Required Processes**
 1. Find sum of GPAs.
